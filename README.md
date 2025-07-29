@@ -38,8 +38,8 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1976d2?style=for-the-badge&logo=linkedin&logoColor=white)](https://khenzxc.netlify.app/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/khen-vonoe-gabriel-3671a3323/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1976d2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khen-vonoe-gabriel-3671a3323/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)]([https://www.linkedin.com/in/khen-vonoe-gabriel-3671a3323/](https://khenzxc.netlify.app/))
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1976d2,000000&height=100&section=footer"/>
