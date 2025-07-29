@@ -1,7 +1,5 @@
-<!-- Profile README for khenzxc -->
-
 <h1 align="center" style="color:#1976d2;">
-  Hi, I'm khenzxc! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  Hi, I'm Khen Gabriel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
 
 <p align="center">
