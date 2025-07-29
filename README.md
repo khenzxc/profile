@@ -19,14 +19,6 @@
 
 ---
 
-### 🌟 About Me
-
-- 🎓 Student passionate about building cool and useful things
-- 💻 Currently learning full stack development
-- 🎯 Always curious and eager to grow
-
----
-
 ### 🎨 Favorite Colors
 
 <div align="center">
