@@ -38,6 +38,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1976d2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khen-vonoe-gabriel-3671a3323/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://khenzxc.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v.khenn/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khenqt/)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1976d2,000000&height=100&section=footer"/>
