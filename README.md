@@ -8,6 +8,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khenzxc&style=for-the-badge)
 
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -17,12 +19,16 @@
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
+---
+
 ### 🎨 Favorite Colors
 
 <div align="center">
   <img src="https://img.shields.io/badge/Blue-1976d2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge"/>
 </div>
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1976d2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khen-vonoe-gabriel-3671a3323/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://khenzxc.netlify.app/)
