@@ -8,6 +8,14 @@
 
 ---
 
+<!-- Profile README for khenzxc -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=khenzxc&style=for-the-badge)
+
+<h1 align="center" style="color:#1976d2;">
+  Hi, I'm khenzxc! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
+
 ### 🛠️ Tech Stack
 
 <div align="center">
